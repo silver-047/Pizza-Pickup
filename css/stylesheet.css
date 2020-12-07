@@ -1,0 +1,24 @@
+h1, h2, h3, p {
+    color: white;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.carousel-inner {
+    max-height: 600px;
+}
+
+.carousel-item img {
+    position: center;
+}
+
+.form-check {
+    color: white;
+}
+
+#details-text {
+    text-align: center;
+    margin-top: 2%;
+}
